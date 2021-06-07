@@ -18,7 +18,6 @@
               class="mt-4"
           >
             Get me out of here!
-
           </v-btn>
         </v-col>
       </v-row>
