@@ -1,0 +1,17 @@
+@import '~@mdi/font/css/materialdesignicons.min.css';
+@import '~material-design-icons-iconfont/dist/material-design-icons.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+html {
+  font-size: 16px;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.small-icon-button {
+  width: 28px !important;
+  min-width: 28px !important;
+  height: 28px;
+  padding: 0;
+  border-radius: 100% !important;
+}
